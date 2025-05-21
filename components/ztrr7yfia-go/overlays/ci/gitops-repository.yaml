@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ztrr7yfia-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ztrr7yfia-go-gitops
